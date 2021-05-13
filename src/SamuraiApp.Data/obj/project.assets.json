@@ -1481,6 +1481,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "SamuraiApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SamuraiApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SamuraiApp.Domain.dll": {}
+        }
       }
     }
   },
@@ -5693,11 +5703,17 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "SamuraiApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../SamuraiApp.Domain/SamuraiApp.Domain.csproj",
+      "msbuildProject": "../SamuraiApp.Domain/SamuraiApp.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.6",
+      "SamuraiApp.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5732,7 +5748,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
