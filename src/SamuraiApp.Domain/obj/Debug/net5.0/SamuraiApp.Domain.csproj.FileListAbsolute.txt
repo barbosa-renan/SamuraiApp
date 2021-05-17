@@ -1,0 +1,12 @@
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.deps.json
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\bin\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csprojAssemblyReference.cache
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfoInputs.cache
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.AssemblyInfo.cs
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\ref\SamuraiApp.Domain.dll
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Domain\obj\Debug\net5.0\SamuraiApp.Domain.pdb

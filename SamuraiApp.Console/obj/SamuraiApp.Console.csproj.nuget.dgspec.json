@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\SamuraiApp.Console\\SamuraiApp.Console.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\SamuraiApp.Console\\SamuraiApp.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\SamuraiApp.Console\\SamuraiApp.Console.csproj",
+        "projectName": "SamuraiApp.Console",
+        "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\SamuraiApp.Console\\SamuraiApp.Console.csproj",
+        "packagesPath": "C:\\Users\\r.quadros.barbosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\SamuraiApp.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r.quadros.barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\r.quadros.barbosa\\source\\packages": {},
+          "http://146.47.14.221/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
+                "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\SamuraiApp.Data.csproj"
+              },
+              "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+        "projectName": "SamuraiApp.Data",
+        "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+        "packagesPath": "C:\\Users\\r.quadros.barbosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r.quadros.barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\r.quadros.barbosa\\source\\packages": {},
+          "http://146.47.14.221/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "projectName": "SamuraiApp.Domain",
+        "projectPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\r.quadros.barbosa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\r.quadros.barbosa\\source\\repos\\SamuraiApp\\src\\SamuraiApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\r.quadros.barbosa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\r.quadros.barbosa\\source\\packages": {},
+          "http://146.47.14.221/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
