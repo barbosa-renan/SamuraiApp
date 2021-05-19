@@ -13,3 +13,6 @@ C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\obj\Debug
 C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.dll
 C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\obj\Debug\net5.0\ref\SamuraiApp.Data.dll
 C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.pdb
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.json
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.dev.json
+C:\Users\r.quadros.barbosa\source\repos\SamuraiApp\src\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.genruntimeconfig.cache
