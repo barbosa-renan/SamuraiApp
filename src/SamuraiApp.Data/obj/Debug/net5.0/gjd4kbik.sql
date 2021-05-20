@@ -11,7 +11,8 @@ GO
 BEGIN TRANSACTION;
 GO
 
-CREATE TABLE [Samurais] (
+CREATE TABLE [Samurais] 
+(
     [Id] int NOT NULL IDENTITY,
     [Name] nvarchar(max) NULL,
     CONSTRAINT [PK_Samurais] PRIMARY KEY ([Id])
